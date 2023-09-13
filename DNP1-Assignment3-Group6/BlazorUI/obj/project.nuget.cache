@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrUslcVEG6iKiKRBEI3jPDU2KtTChHv4VqAjjyBpNFMEqm4uNwT0Uglw1/R3VNv3atFMBeJHG45H+6YcB8eqSQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\DNP1-Assignment1-Group6\\BlazorUI\\BlazorUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

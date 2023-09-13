@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MI4bf+21i+A8tOQRpptJXjx0ysXN4uHdXwZuwnyV+HXMnqanpTrdCj6hsGRVeuUgwOsrzDPfLBHzKtCMpsLsgA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\DNP1-Assignment1-Group6\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
